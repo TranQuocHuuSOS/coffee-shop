@@ -635,10 +635,16 @@ video {
   margin-left: 1rem;
   margin-right: 1rem;
   text-align: center;
-  font-size: 12px;
+  font-size: 0.75rem;
+  line-height: 1rem;
   font-weight: 500;
   text-transform: uppercase;
   letter-spacing: 0.1em;
   --tw-text-opacity: 1;
   color: rgb(107 114 128 / var(--tw-text-opacity));
+}
+
+.tqd-button{
+  text-align: center;
+  text-transform: uppercase;
 }
